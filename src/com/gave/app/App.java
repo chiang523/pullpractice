@@ -14,5 +14,6 @@ public class App {
         System.out.println("First line for github pull request workflow testing project!");
         System.out.println("Add new line from cloned project!");
         System.out.println("Class 20150129");
+        System.out.println("modified from yang");
     }
 }
